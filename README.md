@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kinn
-- 👀 I’m interested in system development
+- 👋 Hi, I’m Resiana Kinanti
+- 👀 I’m interested in system development and data analyst
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @annSolstice
-- the name behind it is I am Resiana Kinanti
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html css
+- 👋 Hi, I’m @Kinn
+- 👀 I’m interested in system development
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

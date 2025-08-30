@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Resiana Kinanti
-- 👀 I’m interested in system development and data analyst
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in system development, data analysis, and health technology
+- 🌱 I’m currently pursuing a master's degree in biomedical engineering
+- 💞️ I’m open to opportunities to collaborate on medical informatics and telemedicine projects
+- 📫 How to reach me via email at resianakinanti@gmail.com
 
 <!---
 annSolstice/annSolstice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
